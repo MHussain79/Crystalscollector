@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: teal;
+}
+
+h1 {
+
+    text-align: center;
+    color: black;
+
+}
+
+p {
+
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+}
+
+.div1 {
+    width: 250px;
+    height: 100px;
+    padding-top: 30px;
+    background-color: #E4E27B;
+
+}
+
+.div2 {
+    width: 400px;
+    height: 400px;
+    padding-top: 5px;
+    background-color: #C4C39B;
+
+}
+
+.div3 {
+    width: 200px;
+    height: 100px;
+    margin-top: 15px;
+    background-color: lightgreen;
+
+}
+
+.div4 {
+    width: 80px;
+    height: 100px;
+    margin-top: 15px;
+    background-color: lightblue;
+    float: center;
+    box-sizing: border-box;
+
+}
+
+.boxes {
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    padding-top: 5px;
+
+}
+
+#leftBox {
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: limegreen;
+}
+
+#rightBox {
+    width: 80px;
+    height: 100px;
+    font-size: 12px;
+    color: white;
+    float: right;
+    background-color: mediumseagreen;
+
+}
+
+.images {
+
+    padding-top: 10px;
+
+}
+
+#div5 {
+    width: 400px;
+    height: 50px;
+    padding-left: 5px;
+    padding-top: 1px;
+    background-color: mediumseagreen;
+    color: red;
+
+}
+
+#div6 {
+    width: 400px;
+    height: 150px;
+    margin-top: 15px;
+    background-color: mediumseagreen;
+
+}
